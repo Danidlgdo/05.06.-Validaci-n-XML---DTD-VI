@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Daniel
+Curso: 1DAW
+Fecha: 5/4/2025
+Ejercicio: Ejercicio 1
+-->
+<!DOCTYPE persona [
+    <!ELEMENT persona EMPTY>
+    <!ATTLIST persona nombre CDATA #IMPLIED>
+]>
+
+<persona nombre="Daniel Delgado" />

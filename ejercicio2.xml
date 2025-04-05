@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Daniel
+Curso: 1DAW
+Fecha: 5/4/2025
+Ejercicio: Ejercicio 2
+-->
+<!DOCTYPE película [
+    <!ELEMENT película EMPTY>
+    <!ATTLIST película titulo CDATA #IMPLIED>
+]>
+<película titulo="La diligencia" />
